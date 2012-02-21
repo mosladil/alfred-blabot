@@ -4,7 +4,6 @@ Czech Lorem Ipsum from Blabot.net
 Simple script for Czech Lorem Ipsum from [Blabot.net](http://www.blabot.net/) directly from [Alfred App](http://alfredapp.com/). You will need Alfred and the Powerpack to use this.
 
 ![Screen shot](/xxlmira/alfred-blabot/raw/master/screenshot.png)
-![Blabot.net logo](/xxlmira/alfred-blabot/raw/master/blabot.png)
 
 
 Installation
