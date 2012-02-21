@@ -8,7 +8,7 @@
 	<string>SCRIPTS</string>
 	<key>command</key>
 	<string>export __CF_USER_TEXT_ENCODING=0x1F5:0x8000100:0x8000100; php -f script.php -- {query} | pbcopy
-echo "Blábot.net";</string>
+export blabot=$(pbpaste); echo ${blabot:0:80}…</string>
 	<key>disabled</key>
 	<false/>
 	<key>escapequery</key>
