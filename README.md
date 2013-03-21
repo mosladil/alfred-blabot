@@ -3,13 +3,13 @@ Czech Lorem Ipsum from Blabot.net
 
 Simple script for Czech Lorem Ipsum from [Blabot.net](http://www.blabot.net/) directly from [Alfred App](http://alfredapp.com/). You will need Alfred and the Powerpack to use this.
 
-![Screen shot](/xxlmira/alfred-blabot/raw/master/screenshot.png)
+![Screen shot](screenshot.png)
 
 
 Installation
 ----------------
 
-To install Blabot.net extension download [dist/Blabot.net.alfredextension](/xxlmira/alfred-blabot/raw/master/dist/Blabot.net.alfredextension).
+To install Blabot.net extension download [dist/Blabot.net.alfredextension](dist/Blabot.net.alfredextension).
 
 How to use
 ----------------
